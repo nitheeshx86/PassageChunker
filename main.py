@@ -30,7 +30,7 @@ st.markdown("Useful for websites which has input limit like AI-checker, plagaris
 
 genre = st.radio(
     "✨You can seperate your passage into different chunks acc. to required :rainbow[no. of words] or :rainbow[characters] per chunk",
-    ["Word Limit", "haracter/letter Limit"],
+    ["Word Limit", "Character/letter Limit"],
     captions=[
         "Split the text into different chunks acc. to a given word limit for each chunk",
         "Split the text into different chunks acc. to a given character/letter limit for each chunk",
